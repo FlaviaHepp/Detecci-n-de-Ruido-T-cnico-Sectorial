@@ -84,3 +84,39 @@ Son sectores donde:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+🚨 **¿Estás operando en sectores “ruidosos” sin darte cuenta?**
+
+En el análisis técnico solemos buscar tendencias claras… pero, ¿qué pasa cuando el mercado hace exactamente lo contrario?
+
+Hay sectores donde ocurre algo particularmente peligroso:
+👉 Alta volatilidad (kurtosis elevada)
+👉 Baja direccionalidad (ADX bajo)
+
+📊 Esto se traduce en lo que llamo **“ruido técnico sectorial”**:
+Movimientos bruscos, impredecibles y sin una tendencia definida.
+
+⚠️ ¿Por qué es importante?
+Porque estos sectores:
+
+* Generan falsas señales constantemente
+* Castigan estrategias tendenciales
+* Aumentan el riesgo de sobreoperar
+
+💡 En este análisis busqué:
+Sectores con **kurtosis promedio > 5** (eventos extremos frecuentes)
+y **ADX promedio < 20** (ausencia de tendencia clara) en el último mes.
+
+📉 Resultado:
+Identificación de sectores donde el riesgo no viene solo de la volatilidad… sino de la **falta de dirección**.
+
+🧠 Insight clave:
+No toda volatilidad es oportunidad.
+A veces, es simplemente *ruido*.
+
+---
+
+🔍 Este tipo de análisis es parte de un enfoque más amplio que combina métricas estadísticas con indicadores técnicos para entender mejor el comportamiento del mercado.
+
+#DataScience #Quant #Trading #AnálisisTécnico #Finanzas #MachineLearning #RiskManagement
